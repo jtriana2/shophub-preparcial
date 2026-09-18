@@ -2,6 +2,7 @@
 
 @source "../components";
 @source "./products";
+@source "./checkout";
 
 html,
 body {
